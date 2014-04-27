@@ -1,6 +1,6 @@
 {
   "name": "level-mesh",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mesh index for level.",
   "main": "index.js",
   "scripts": {
